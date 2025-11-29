@@ -7,7 +7,7 @@ Os materiais disponíveis atualmente são os seguintes:
 
 * [Playlist de videoaulas](https://www.youtube.com/playlist?list=PLgXTST6asGrHhJCq4FnBX57tFtc6VTALZ) (as aulas serão inseridas em breve)
 
-* [Exercício prático em Python](https://colab.research.google.com/drive/1QSrKHCe3s8ipf-HXMV1rt3YopsdKIw91?usp=sharing) (o texto será traduzido em breve)
+* [Exercício prático em Python](https://colab.research.google.com/drive/1QSrKHCe3s8ipf-HXMV1rt3YopsdKIw91?usp=sharing) 
 
-Em breve também serão adicionados neste repositório o código LaTeX do Overleaf do material escrito e o código do exercício prático, caso alguém queira contribuir no projeto e propor melhorias.
+Caso alguém queira contribuir no projeto e propor melhorias, pode copiar o [projeto do material escrito no Overleaf](https://pt.overleaf.com/read/dvdvcxhcbgwy#67b516), além de poder copiar e editar livremente os demais materiais (dando os devidos créditos).
 
