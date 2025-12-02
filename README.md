@@ -5,7 +5,9 @@ Os materiais disponíveis atualmente são os seguintes:
 
 * [Material escrito](https://drive.google.com/uc?export=download&id=1uAOie2MWLehx_z_e9BgAzowSz_csZcjB)
 
-* [Playlist de videoaulas](https://www.youtube.com/playlist?list=PLgXTST6asGrHhJCq4FnBX57tFtc6VTALZ) (as aulas serão disponibilizadas em breve, junto com os slides)
+* [Playlist de videoaulas](https://www.youtube.com/playlist?list=PLgXTST6asGrHhJCq4FnBX57tFtc6VTALZ) (as aulas serão disponibilizadas em breve)
+  
+* [Slides de videoaula](https://docs.google.com/presentation/d/1NFslzK6bNjipSflnbwoj9QgzFQkfk5srDKWt4fElNlc/edit?usp=sharing)
 
 * [Exercício prático em Python](https://colab.research.google.com/drive/1QSrKHCe3s8ipf-HXMV1rt3YopsdKIw91?usp=sharing)
   
